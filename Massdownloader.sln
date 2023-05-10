@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massdownloader", "Massdownloader.csproj", "{209EEDE2-A6E6-4014-9F3F-AF7E0C17E82B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{209EEDE2-A6E6-4014-9F3F-AF7E0C17E82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209EEDE2-A6E6-4014-9F3F-AF7E0C17E82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209EEDE2-A6E6-4014-9F3F-AF7E0C17E82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209EEDE2-A6E6-4014-9F3F-AF7E0C17E82B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
